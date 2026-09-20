@@ -1,8 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Rizwan Akbar</h1>
-  
+
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=BS+Software+Engineering+Student;Aspiring+AI+Software+Engineer;Python+%7C+JavaScript+Developer;Full-Stack+Web+Development+in+Progress;Building+Something+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=BS+Software+Engineering+Student;Python+%7C+JavaScript+Developer;Full-Stack+Web+Development+in+Progress;Exploring+Data+Engineering+%26+AI;Building+Something+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
   </p>
 
   <p>
@@ -26,11 +26,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BS Software Engineering student** building a solid foundation in software architecture & problem solving.
-- 🐍 Actively coding in **Python** and sharpening core data structures and algorithms.
-- 🌐 Developing responsive applications with **HTML5, CSS3, JavaScript, Bootstrap**, and modern web tooling.
-- 🤖 Passionate about **AI Software Engineering**, aiming to design and integrate intelligent systems.
-- 🔥 **Philosophy:** Showing up every day — one concept, one project, and one commit at a time.
+- 🎓 **BS Software Engineering student**, building strong foundations in software development with **Python** and **JavaScript**.
+- 🌐 Developing responsive web apps with **HTML5, CSS3, Bootstrap**, and modern JavaScript.
+- 🔭 Currently exploring **Data Engineering** and **AI**.
+- 🌱 Currently learning **Full-Stack Web Development**.
+- 🔥 **Philosophy:** showing up every day — one concept, one project, one commit at a time.
 
 ---
 
@@ -42,18 +42,18 @@
 
 ### 🌐 Full-Stack Development
 - HTML5 / CSS3 / JavaScript
-- Modern UI Layouts & Bootstrap 5
-- Git & GitHub Version Control
-- Clean & Modular Code Structure
+- Bootstrap & responsive layouts
+- Git & GitHub version control
+- Clean, modular code structure
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Software Engineering
-- Python Programming & OOP
-- Logic Building & Algorithms
-- Exploring AI / Machine Learning Foundations
-- Scalable Software Design
+### 🤖 Data & AI (Exploring)
+- Python programming & OOP
+- Logic building & algorithms
+- AI / ML foundations
+- Data handling basics
 
 </td>
 </tr>
@@ -67,16 +67,6 @@
   <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,git,github,vscode&perline=8" alt="Tech Stack Icons"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -86,7 +76,7 @@
 <td width="50%" valign="top">
 
 <h3 align="center">📅 365 Days of Web Development</h3>
-<p align="center">A structured daily repository of exercises, front-end experiments, and progressive mini-projects.</p>
+<p align="center">Daily web development practice, exercises, and small progressive projects.</p>
 <p align="center">
   <a href="https://github.com/RizwanAkbar1902/365-days-of-web-development">
     <img src="https://img.shields.io/badge/View_Repo-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
@@ -96,10 +86,10 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🐍 Python Practice & Utilities</h3>
-<p align="center">Collection of daily Python scripts, algorithms, data structures, and foundational automation tasks.</p>
+<h3 align="center">🐍 Python Daily Practice</h3>
+<p align="center">Daily Python exercises and small beginner projects to strengthen core fundamentals.</p>
 <p align="center">
-  <a href="https://github.com/RizwanAkbar1902">
+  <a href="https://github.com/RizwanAkbar1902/python-daily-practice">
     <img src="https://img.shields.io/badge/View_Repo-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="View Project"/>
   </a>
 </p>
@@ -109,10 +99,10 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💼 Personal Portfolio</h3>
-<p align="center">Clean, responsive developer portfolio showcasing interactive UI sections and project work.</p>
+<h3 align="center">💼 Personal Portfolio Website</h3>
+<p align="center">Portfolio built while learning HTML, CSS, and Bootstrap — showcasing my projects and journey.</p>
 <p align="center">
-  <a href="https://github.com/RizwanAkbar1902">
+  <a href="https://github.com/RizwanAkbar1902/personal-portfolio">
     <img src="https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
   </a>
 </p>
@@ -120,10 +110,10 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Interactive Web Apps</h3>
-<p align="center">Front-end logic implementation with dynamic state handling, validation, and user interaction.</p>
+<h3 align="center">🛒 Shopping Cart Simulator</h3>
+<p align="center">JavaScript-focused project covering logic building, input validation, and quantity handling.</p>
 <p align="center">
-  <a href="https://github.com/RizwanAkbar1902">
+  <a href="https://github.com/RizwanAkbar1902/shopping-cart-simulator">
     <img src="https://img.shields.io/badge/View_Repo-F59E0B?style=for-the-badge&logo=javascript&logoColor=111827" alt="View Project"/>
   </a>
 </p>
@@ -131,6 +121,20 @@
 </td>
 </tr>
 </table>
+
+> 💡 Replace each repo link above with the direct URL once confirmed (e.g. `github.com/RizwanAkbar1902/365-days-of-web-development`).
+
+---
+
+## 🏆 Certifications
+
+<!--
+  Add exact certificate names + links here, e.g.:
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google-Certificate_Name-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </p>
+-->
+_To be added — send me the exact certificate names (Google/Coursera, Generative AI virtual internship) and I'll add badges + links here._
 
 ---
 
@@ -161,12 +165,19 @@ Software Engineering Foundations
         │       ├── Responsive Design & Bootstrap 5
         │       └── Modern JavaScript (ES6+)
         │
-        ├── 🐍 Python & Backend Logic
+        ├── 🐍 Python & Programming Logic
         │       ├── OOP & Clean Code
-        │       ├── Algorithms & Data Structures
+        │       ├── Data Structures & Algorithms
         │       └── Problem Solving
         │
-        └── 🤖 AI Software Engineering
+        └── 🤖 Data Engineering & AI (Exploring)
                 ├── Data Handling & APIs
                 ├── Machine Learning Concepts
-                └── Intelligent System Integration
+                └── Applied AI Projects
+```
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by — let's connect and build something great! 🚀</sub>
+</div>
