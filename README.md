@@ -58,16 +58,7 @@
 
 ---
 
-## 🧩 Problem Solving & Coding Activity (LeetCode Style)
 
-<div align="center">
-
-<!-- LeetCode Card: اگر آپ کا یوزرنیم مختلف ہے تو username= تبدیل کر سکتے ہیں -->
-<a href="https://leetcode.com">
-  <img src="https://leetcard.jacoblin.cool/RizwanAkbar1902?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats & Consistency" />
-</a>
-
-</div>
 
 ---
 
