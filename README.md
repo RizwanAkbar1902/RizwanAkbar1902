@@ -1,75 +1,99 @@
 <div align="center">
 
-# Hi, I'm Rizwan Akbar 👨‍💻
+# 👋 Hi, I'm Rizwan Akbar
+### Software Engineering Student | Aspiring AI Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=BS+Software+Engineering+Student;Python+and+JavaScript+Developer;Full-Stack+Web+Development+in+Progress;Exploring+Data+Engineering+and+AI" alt="Typing SVG" />
+<p align="center">
+  <a href="https://github.com/RizwanAkbar1902">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=BS+Software+Engineering+Student;Python+%26+Full-Stack+Web+Developer;Aspiring+AI+Software+Engineer;Building+Scalable+%26+Intelligent+Software;Daily+Consistency+%7C+Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/rizwan-akbar-3a7b27419" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rizwanakbarkhan49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/RizwanAkbar1902">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<a href="https://github.com/RizwanAkbar1902">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/rizwan-akbar-3a7b27419">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-<a href="mailto:rizwanakbarkhan49@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=34D399" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RizwanAkbar1902&label=PROFILE+VIEWS&color=0D9488&style=for-the-badge" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizwanAkbar1902&label=PROFILE+VIEWS&color=58a6ff&style=flat-square" alt="Profile Views"/>
+</p>
 
 </div>
 
-<br/>
-
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
+---
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BS Software Engineering student**, building strong foundations in software development with **Python** and **JavaScript**
-- 🌐 Developing responsive web apps with **HTML5, CSS3, Bootstrap**, and modern JavaScript
-- 🔭 Currently exploring **Data Engineering** and **AI**
-- 🌱 Currently learning **Full-Stack Web Development**
-- 🔥 **Philosophy:** showing up every day — one concept, one project, one commit at a time
+- 🎓 **BS Software Engineering Student** focused on building solid foundations in software design and algorithms.
+- 🐍 **Python Specialist:** Daily coding, data structures, backend logic, and clean object-oriented design.
+- 🌐 **Full-Stack Development:** Modern, responsive interfaces using HTML5, CSS3, JavaScript, and Bootstrap 5.
+- 🤖 **AI & Intelligence:** Actively bridging the gap between standard software systems and modern AI architectures.
+- 🎯 **Daily Mission:** Continuous learning through hands-on project creation and steady git commits.
 
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
+---
 
-## ⚡ Current Focus
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🌐 Full-Stack Development
-HTML5 · CSS3 · JavaScript<br/>
-Bootstrap & Responsive Layouts<br/>
-Git & GitHub Version Control<br/>
-Clean, Modular Code
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🤖 Data & AI (Exploring)
-Python Programming & OOP<br/>
-Logic Building & Algorithms<br/>
-AI / ML Foundations<br/>
-Data Handling Basics
-
-</td>
-</tr>
-</table>
-
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
-
-## 🛠️ Tech Stack & Tools
+## ⚡ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,git,github,vscode&theme=dark" alt="Skill Icons"/>
 </p>
 
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
+<div align="center">
+
+| Area | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Python`, `JavaScript (ES6+)`, `HTML5`, `CSS3` |
+| **Frameworks / UI** | `Bootstrap 5`, `Responsive Design`, `Flexbox / CSS Grid` |
+| **Tools & Platforms** | `Git`, `GitHub`, `VS Code`, `Terminal / CLI` |
+| **Core Interests** | `Data Structures & Algorithms`, `AI Engineering`, `Full-Stack Systems` |
+
+</div>
+
+---
+
+## 🧩 Problem Solving & Coding Activity (LeetCode Style)
+
+<div align="center">
+
+<!-- LeetCode Card: اگر آپ کا یوزرنیم مختلف ہے تو username= تبدیل کر سکتے ہیں -->
+<a href="https://leetcode.com">
+  <img src="https://leetcard.jacoblin.cool/RizwanAkbar1902?theme=dark&font=Ubuntu&ext=activity" alt="LeetCode Stats & Consistency" />
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Metrics & Performance
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RizwanAkbar1902&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAkbar1902&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Rock-Solid Working GitHub Streak Badge -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizwanAkbar1902&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+</p>
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -77,109 +101,59 @@ Data Handling Basics
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📅 365 Days of Web Development</h3>
-<p align="center">Daily web development practice, exercises, and small progressive projects.</p>
-<p align="center">
-  <a href="https://github.com/RizwanAkbar1902/365-days-of-web-development">
-    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
-</p>
+### 📅 365 Days of Web Development
+A dedicated daily repository featuring foundational exercises, UI experiments, and progressive web apps.
+- **Tech:** HTML5, CSS3, JavaScript, Bootstrap
+- [🔗 View Repository](https://github.com/RizwanAkbar1902/365-days-of-web-development)
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🐍 Python Daily Practice</h3>
-<p align="center">Daily Python exercises and small beginner projects to strengthen core fundamentals.</p>
-<p align="center">
-  <a href="https://github.com/RizwanAkbar1902/python-daily-practice">
-    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="View Project"/>
-  </a>
-</p>
+### 🐍 Python Daily Practice & DSA
+Daily Python scripts focusing on core logic, algorithmic problem solving, and standard design practices.
+- **Tech:** Python, Algorithms, OOP
+- [🔗 View Repository](https://github.com/RizwanAkbar1902)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💼 Personal Portfolio Website</h3>
-<p align="center">Portfolio built while learning HTML, CSS, and Bootstrap — showcasing my projects and journey.</p>
-<p align="center">
-  <a href="https://github.com/RizwanAkbar1902/personal-portfolio">
-    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-  </a>
-</p>
+### 💼 Personal Developer Portfolio
+Showcasing responsive interface design, structured layout components, and clean code principles.
+- **Tech:** HTML5, Modern CSS, Bootstrap
+- [🔗 View Repository](https://github.com/RizwanAkbar1902)
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Shopping Cart Simulator</h3>
-<p align="center">JavaScript-focused project covering logic building, input validation, and quantity handling.</p>
-<p align="center">
-  <a href="https://github.com/RizwanAkbar1902/shopping-cart-simulator">
-    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="View Project"/>
-  </a>
-</p>
+### 🛒 Interactive Web Applications
+Dynamic client-side features covering DOM manipulation, state handling, and interactive UX flows.
+- **Tech:** Vanilla JavaScript, UI Architecture
+- [🔗 View Repository](https://github.com/RizwanAkbar1902)
 
 </td>
 </tr>
 </table>
 
-> 💡 Replace each repo link above with the direct URL once confirmed.
+---
 
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
-
-## 🏆 Certifications
-
-<!--
-  Add exact certificate names + links here, e.g.:
-  <p align="center">
-    <img src="https://img.shields.io/badge/Google-Certificate_Name-1F6FEB?style=for-the-badge&logo=google&logoColor=white"/>
-  </p>
--->
-_To be added — send me the exact certificate names (Google/Coursera, Generative AI virtual internship) and I'll add badges + links here._
-
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
-
-## 📈 GitHub Metrics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizwanAkbar1902&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9&ring_color=1F6FEB&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAkbar1902&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
-</p>
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RizwanAkbar1902&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=F97316&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="100%" alt="GitHub Streak"/>
-</p>
-
-![divider](https://img.shields.io/badge/-%20-1F2937?style=for-the-badge)
-
-## 🎯 Learning Roadmap
+## 🎯 Engineering Roadmap
 
 ```text
 Software Engineering Foundations
         │
         ├── 🌐 Full-Stack Web Development
         │       ├── Semantic HTML5 & Modern CSS3
-        │       ├── Responsive Design & Bootstrap 5
+        │       ├── Responsive Systems & Bootstrap 5
         │       └── Modern JavaScript (ES6+)
         │
-        ├── 🐍 Python & Programming Logic
-        │       ├── OOP & Clean Code
+        ├── 🐍 Python & Backend Architecture
         │       ├── Data Structures & Algorithms
-        │       └── Problem Solving
+        │       ├── Object-Oriented Programming (OOP)
+        │       └── Automation & Scripting
         │
-        └── 🤖 Data Engineering & AI (Exploring)
+        └── 🤖 AI Software Engineering
                 ├── Data Handling & APIs
-                ├── Machine Learning Concepts
-                └── Applied AI Projects
-```
-
-<div align="center">
-
-<br/>
-
-<sub>Thanks for stopping by — let's connect and build something great! 🚀</sub>
-
-</div>
+                ├── Machine Learning Foundations
+                └── Intelligent App Integration
