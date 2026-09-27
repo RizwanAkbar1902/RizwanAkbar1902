@@ -1,132 +1,188 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg" />
+  <img alt="Rizwan Akbar" src="assets/dark.svg" width="100%" />
+</picture>
+
 <div align="center">
 
-# 👋 Hi, I'm Rizwan Akbar
+<a href="https://www.linkedin.com/in/rizwan-akbar-3a7b27419">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>&nbsp;&nbsp;
+<a href="mailto:rizwanakbarkhan49@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
 
-### Software Engineering Student • Python • Web Development • Exploring AI
+<br/><br/>
 
-Building my software engineering skills through consistent learning and hands-on projects.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-akbar-3a7b27419)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RizwanAkbar1902)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizwanakbarkhan49@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=RizwanAkbar1902&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
 
 ## 🧑‍💻 About Me
 
-I'm a **BS Software Engineering student at the University of Mianwali**, passionate about learning software development through practical projects.
+BS Software Engineering student focused on building strong foundations in software development. Currently working with Python, JavaScript, HTML, CSS, and Bootstrap while exploring Data Engineering, AI, and backend technologies. I enjoy turning what I learn into practical projects, improving my problem-solving skills, and consistently building through hands-on practice.
 
-- 🐍 Learning Python through daily coding and projects.
-- 🌐 Building responsive websites with HTML, CSS, JavaScript, and Bootstrap.
-- 🤖 Exploring AI-powered software and modern development.
-- 🛠️ Improving Git & GitHub workflow through consistent commits.
-- 📚 Learning by building real projects instead of only watching tutorials.
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
 
-> **Learn → Build → Break → Fix → Improve**
+## ⚡ Current Focus
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
 
-## 🚀 Current Focus
+### 🌐 Full-Stack Development
+HTML5 · CSS3 · JavaScript<br/>
+Bootstrap & Responsive Layouts<br/>
+Git & GitHub Version Control<br/>
+Clean, Modular Code
 
-- Python Fundamentals & Problem Solving
-- Web Development (HTML, CSS, JavaScript, Bootstrap)
-- Backend Programming Concepts
-- Git & GitHub
-- AI-focused Software Engineering
+</td>
+<td width="50%" valign="top" align="center">
 
----
+### 🗄️ Data Engineering (Exploring)
+Python Programming & OOP<br/>
+APIs & Server-Side Basics<br/>
+SQL & Database Fundamentals<br/>
+Cloud & Data Engineering Concepts
 
-## 💻 Tech Stack
+</td>
+</tr>
+</table>
 
-### Languages
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,git,github,vscode&perline=8&theme=dark" alt="Tech Stack Icons"/>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
 
-### Tools
+## 🚀 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+<h3 align="center">📅 365 Days of Web Development</h3>
+<p align="center">Daily web development practice, exercises, and small progressive projects.</p>
+<p align="center">
+  <a href="https://github.com/RizwanAkbar1902/365-days-of-web-development">
+    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
 
-## 📌 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### 🐍 Python Daily Practice
-Daily Python exercises and beginner-friendly projects to strengthen programming fundamentals.
+<h3 align="center">🐍 Python Daily Practice</h3>
+<p align="center">Daily Python exercises and small beginner projects to strengthen core fundamentals.</p>
+<p align="center">
+  <a href="https://github.com/RizwanAkbar1902/python-daily-practice">
+    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=python&logoColor=white" alt="View Project"/>
+  </a>
+</p>
 
-### 🌐 365 Days of Web Development
-My learning journey through HTML, CSS, JavaScript, Bootstrap, and web development projects.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🛒 Shopping Cart Simulator
-A JavaScript project focused on logic building, user input handling, and validation.
+<h3 align="center">💼 Personal Portfolio Website</h3>
+<p align="center">Portfolio built while learning HTML, CSS, and Bootstrap — showcasing my projects and journey.</p>
+<p align="center">
+  <a href="https://github.com/RizwanAkbar1902/personal-portfolio">
+    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+  </a>
+</p>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🎯 Career Journey
+<h3 align="center">🛒 Shopping Cart Simulator</h3>
+<p align="center">JavaScript-focused project covering logic building, input validation, and quantity handling.</p>
+<p align="center">
+  <a href="https://github.com/RizwanAkbar1902/shopping-cart-simulator">
+    <img src="https://img.shields.io/badge/View_Repo-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="View Project"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace each repo link above with the direct URL once confirmed.
+
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
+
+## 🏆 Certifications
+
+<!--
+  Add exact certificate names + links here once you send them, e.g.:
+  <p align="center">
+    <img src="https://img.shields.io/badge/Google-Certificate_Name-1F6FEB?style=for-the-badge&logo=google&logoColor=white"/>
+  </p>
+-->
+_To be added — send me the exact certificate names (Google/Coursera, Generative AI virtual internship) and I'll add badges + links here._
+
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
+
+## 📈 GitHub Metrics & Activity
+
+<!-- TEMP: public instance — swap to your self-hosted Vercel URL once it's deployed (see setup steps) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizwanAkbar1902&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=F59E0B&text_color=C9D1D9&ring_color=1F6FEB&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAkbar1902&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RizwanAkbar1902&theme=github-dark-blue&hide_border=true&background=0A101F&ring=1F6FEB&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="100%" alt="GitHub Streak"/>
+</p>
+
+<!--
+  🐍 Contribution snake — uncomment this ONLY after your GitHub Action has run
+  once and shows a green checkmark (the `output` branch doesn't exist before that).
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-light.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-dark.svg" width="100%" />
+  </picture>
+-->
+
+![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
+
+## 🎯 Learning Roadmap
 
 ```text
-Software Engineering
-      │
-      ├── Programming Fundamentals
-      ├── Python
-      ├── Web Development
-      ├── Backend Development
-      └── AI-powered Applications
-                │
-                ▼
-     AI-focused Software Engineer
+Software Engineering Foundations
+        │
+        ├── 🌐 Full-Stack Web Development
+        │       ├── Semantic HTML5 & Modern CSS3
+        │       ├── Responsive Design & Bootstrap 5
+        │       └── Modern JavaScript (ES6+)
+        │
+        ├── 🐍 Python & Programming Logic
+        │       ├── OOP & Clean Code
+        │       ├── Data Structures & Algorithms
+        │       └── Problem Solving
+        │
+        └── 🗄️ Data Engineering & Cloud (Exploring)
+                ├── APIs & Server-Side Development
+                ├── SQL & Database Fundamentals
+                └── Cloud & Applied Data Projects
 ```
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=RizwanAkbar1902&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
 
-![](https://streak-stats.demolab.com/?user=RizwanAkbar1902&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RizwanAkbar1902&theme=dark&hide_border=false&layout=compact)
-
-</div>
-
----
-
-## 📈 Learning Philosophy
-
-```text
-Consistency > Motivation
-Projects > Tutorials
-Understanding > Memorization
-Progress > Perfection
-```
-
-Every project is another step toward becoming a better software engineer.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-akbar-3a7b27419)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RizwanAkbar1902)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rizwanakbarkhan49@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=RizwanAkbar1902&style=flat-square&color=blue)
-
-**Learning consistently. Building gradually. Getting better every day.**
+<sub>Thanks for stopping by — let's connect and build something great! 🚀</sub>
 
 </div>
