@@ -115,45 +115,41 @@ Cloud & Data Engineering Concepts
 </tr>
 </table>
 
-> 💡 Replace each repo link above with the direct URL once confirmed.
-
 ![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
 
 ## 🏆 Certifications
 
 <!--
-  Add exact certificate names + links here once you send them, e.g.:
+  Add exact certificate names + links here, e.g.:
   <p align="center">
     <img src="https://img.shields.io/badge/Google-Certificate_Name-1F6FEB?style=for-the-badge&logo=google&logoColor=white"/>
   </p>
 -->
-_To be added — send me the exact certificate names (Google/Coursera, Generative AI virtual internship) and I'll add badges + links here._
+_Coming soon._
 
 ![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
 
 ## 📈 GitHub Metrics & Activity
 
-<!-- TEMP: public instance — swap to your self-hosted Vercel URL once it's deployed (see setup steps) -->
+<!-- TEMP: public instance. Replace with your self-hosted Vercel URL after deploying. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizwanAkbar1902&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=F59E0B&text_color=C9D1D9&ring_color=1F6FEB&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAkbar1902&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RizwanAkbar1902&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=F59E0B&text_color=C9D1D9&ring_color=1F6FEB&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizwanAkbar1902&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
 </p>
-
-### 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RizwanAkbar1902&theme=github-dark-blue&hide_border=true&background=0A101F&ring=1F6FEB&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=8B949E&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" width="100%" alt="GitHub Streak"/>
 </p>
 
 <!--
-  🐍 Contribution snake — uncomment this ONLY after your GitHub Action has run
-  once and shows a green checkmark (the `output` branch doesn't exist before that).
+  🐍 Contribution snake: uncomment ONLY after the GitHub Action has run once
+  and shows a green checkmark (the `output` branch doesn't exist before that).
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-light.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-dark.svg" width="100%" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-light.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RizwanAkbar1902/RizwanAkbar1902/output/github-snake-dark.svg" width="100%" />
+</picture>
 -->
 
 ![divider](https://img.shields.io/badge/-%20-0A101F?style=for-the-badge)
@@ -180,9 +176,6 @@ Software Engineering Foundations
 ```
 
 <div align="center">
-
 <br/>
-
-<sub>Thanks for stopping by — let's connect and build something great! 🚀</sub>
-
+<sub>Thanks for stopping by. Let's connect and build something great! 🚀</sub>
 </div>
