@@ -9,18 +9,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Software+Engineering+Student;Aspiring+AI+Web+Developer;Python+%7C+Web+%7C+Data+%7C+AI;Learning.+Building.+Improving." alt="Typing animation" />
 
 <p>
-  <a href="https://github.com/RizwanAkbar1902">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/rizwan-akbar-3a7b27419">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rizwanakbarkhan49@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/RizwanAkbar1902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rizwan-akbar-3a7b27419"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rizwanakbarkhan49@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=RizwanAkbar1902&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/RizwanAkbar1902?label=Followers&logo=github&style=for-the-badge&color=8957E5" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/RizwanAkbar1902?affiliations=OWNER&label=Total+Stars&logo=github&style=for-the-badge&color=1F6FEB" alt="GitHub stars" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -132,9 +127,7 @@ My current journey is centered around **Python, web development, programming fun
 <tr>
 <td align="center" width="50%">
 
-<a href="https://github.com/RizwanAkbar1902/365-days-of-web-development">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=365-days-of-web-development&theme=tokyonight&hide_border=true" alt="365 Days of Web Development" />
-</a>
+<a href="https://github.com/RizwanAkbar1902/365-days-of-web-development"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=365-days-of-web-development&theme=tokyonight&hide_border=true" alt="365 Days of Web Development" /></a>
 
 📅 **A daily journey of learning and practicing web development.**
 
@@ -146,9 +139,7 @@ My current journey is centered around **Python, web development, programming fun
 </td>
 <td align="center" width="50%">
 
-<a href="https://github.com/RizwanAkbar1902/python-daily-practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=python-daily-practice&theme=tokyonight&hide_border=true" alt="Python Daily Practice" />
-</a>
+<a href="https://github.com/RizwanAkbar1902/python-daily-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=python-daily-practice&theme=tokyonight&hide_border=true" alt="Python Daily Practice" /></a>
 
 🐍 **Daily exercises and small projects for improving Python fundamentals and problem-solving.**
 
@@ -161,9 +152,7 @@ My current journey is centered around **Python, web development, programming fun
 <tr>
 <td align="center" width="50%">
 
-<a href="https://github.com/RizwanAkbar1902/personal-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=personal-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
-</a>
+<a href="https://github.com/RizwanAkbar1902/personal-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=personal-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" /></a>
 
 💼 **A portfolio website built while learning HTML, CSS, and Bootstrap.**
 
@@ -175,9 +164,7 @@ My current journey is centered around **Python, web development, programming fun
 </td>
 <td align="center" width="50%">
 
-<a href="https://github.com/RizwanAkbar1902/shopping-cart-simulator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=shopping-cart-simulator&theme=tokyonight&hide_border=true" alt="Shopping Cart Simulator" />
-</a>
+<a href="https://github.com/RizwanAkbar1902/shopping-cart-simulator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RizwanAkbar1902&repo=shopping-cart-simulator&theme=tokyonight&hide_border=true" alt="Shopping Cart Simulator" /></a>
 
 🛒 **A JavaScript project focused on logic, user input, validation, and cart functionality.**
 
@@ -226,12 +213,8 @@ My current journey is centered around **Python, web development, programming fun
 
 I'm always happy to connect with other learners, developers, and recruiters.
 
-<a href="https://www.linkedin.com/in/rizwan-akbar-3a7b27419">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="mailto:rizwanakbarkhan49@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-</a>
+<a href="https://www.linkedin.com/in/rizwan-akbar-3a7b27419"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:rizwanakbarkhan49@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
 <br>
 
