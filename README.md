@@ -22,10 +22,13 @@
 </div>
 
 ## 👋 About Me
+### 🚀 A Bit About Me
 
-I'm a **BS Software Engineering student** who enjoys learning how software works and turning what I learn into practical projects.
+I’m an aspiring software engineer obsessed with building things that live on the web and backend. Whether it's writing clean Python code, structuring databases, or figuring out how AI fits into modern workflows, I'm always looking to learn and build.
 
-My current journey is centered around **Python, web development, programming fundamentals, and software engineering**. Alongside this, I'm exploring **backend development, databases, data engineering, and AI** to understand where these areas fit into modern software systems.
+* 💡 **Core Focus:** Python | Web Development | Software Fundamentals
+* 🛠️ **Exploring:** Backend Systems | Data Engineering | AI Integrations
+* 🎯 **Mindset:** Code, break, fix, repeat. Progress happens line by line.
 
 > 💡 *I believe progress comes from consistent practice: writing code, building projects, making mistakes, fixing them, and learning from the process.*
 
